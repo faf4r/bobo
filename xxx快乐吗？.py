@@ -22,7 +22,7 @@ def quit():
     surprise = surprise_et.get()
     surprise_title = surprise_title_et.get()
     surprise_content = surprise_content_et.get()
-    root.quit()
+    root.destroy()
 
 
 root = tk.Tk()

@@ -1,6 +1,6 @@
 # bobo
 整蛊
-# [点次下载](https://github.com/TMFfa/bobo/releases/download/2.1/bobo.zip)
+# [点此下载](https://github.com/TMFfa/bobo/releases/download/2.1/bobo.zip)
 # 使用说明
 
 ### 1、软件介绍
